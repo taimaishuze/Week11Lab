@@ -21,7 +21,7 @@ until [ "$selection" = "0" ]; do
     2 - host/ping/netstat -nt
     3 - iptables/arp
     4 - telnet/lsof
-    
+
     0 - exit program
 "
     echo -n "Enter selection: "
